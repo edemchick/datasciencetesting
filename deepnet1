@@ -1,1 +1,6 @@
+pip install bigml
+
+import bigml.api
+
+pip install jupyterlab
 
